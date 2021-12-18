@@ -1,0 +1,6 @@
+[user]
+	email = "oat431@gmail.com"
+	name = "oat431"
+[alias]
+	aa = add --all
+	st = status

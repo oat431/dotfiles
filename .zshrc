@@ -77,10 +77,6 @@ plugins=(
 	macos
 	rake
 	vscode
-	python
-	node
-	npm
-	zsh-autosuggestions
 	zsh-syntax-highlighting
 )
 

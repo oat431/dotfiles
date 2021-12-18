@@ -1,0 +1,14 @@
+alias ll="ls -al"
+
+# basic navigator
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# working shortcut
+alias cmu="cd /mnt/e/CMU"
+alias working="cd /mnt/e/Website/PersonalProject"
+alias ta="cd /mnt/e/CMU/953/TA_stuff"
+
+alias e="$EDITOR"
+alias v="$VISUAL"
