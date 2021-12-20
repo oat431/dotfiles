@@ -7,3 +7,5 @@ set tabstop=4
 set showcmd
 set showmode
 set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
+set nocompatible
+

@@ -4,3 +4,4 @@
 [alias]
 	aa = add --all
 	st = status
+	whoami = config user.email
