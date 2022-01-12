@@ -86,6 +86,7 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 # export PATH="/mnt/c/Program Files/Microsoft/jdk-17.0.1.12-hotspot/bin"
+export PATH="$PATH:/home/panomete/development/flutter/bin"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
