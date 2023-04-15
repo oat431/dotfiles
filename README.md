@@ -3,6 +3,7 @@ Just an configuration backup of my WSL.
 - Z-shell
 - NeoVim
 - Vim-PlugIn
+- Bash Script Short command collection (Soon)
 - Other More.. (Soon)
 
 Also I just want to learn more on linux and figure out that my computer can have linux subsystem so that why I start this repo
