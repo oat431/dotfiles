@@ -12,6 +12,8 @@ Also I just want to learn more on linux and figure out that my computer can have
 - config neovim that can move all the progress work to it.
 - config the zsh so you can become a linux user
 - learn how linux really work
+- adding my personal git script
+- adding my personal short hand script
 
 # referece :
 
